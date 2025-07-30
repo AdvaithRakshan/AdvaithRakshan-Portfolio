@@ -6,7 +6,7 @@ const projects = [
     title: "Travel Planning Application",
     description:
       "AI-powered travel planner that generates itineraries and booking recommendations. Integrated chatbot for seamless trip planning.",
-    image: "public/Projects/TravelPlanner.png", // Replace with actual image path
+    image: "Projects/TravelPlanner.png", // Replace with actual image path
     tags: ["Python", "JavaScript", "HTML/CSS", "Flask", "Gemini API"],
     demoUrl: "https://travel-plannerai-sooty.vercel.app", // Add actual Vercel live link
     githubUrl: "https://github.com/TarunSunil/Travel-Planner", // Add GitHub repo link
@@ -16,7 +16,7 @@ const projects = [
     title: "Music Player Application",
     description:
       "A sleek and responsive music player application that allows users to play, pause, and manage audio tracks with an intuitive interface.",
-    image: "public/Projects/Musicplayer_image.png", // Replace with actual image path
+    image: "Projects/Musicplayer_image.png", // Replace with actual image path
     tags: ["Javascript","CSS","HTML"],
     demoUrl: "https://advaithrakshan.github.io/CLO/", // Optional
     githubUrl: "https://github.com/AdvaithRakshan/CLO", // Add GitHub repo link
@@ -26,7 +26,7 @@ const projects = [
     title: "Pharmacy Management System",
     description:
       "Java-based system for managing prescriptions, inventory, and patient records. Improved efficiency and data accuracy.",
-    image: "public/Projects/Pharmacy_management.jpg", // Replace with actual image path
+    image: "Projects/Pharmacy_management.jpg", // Replace with actual image path
     tags: ["Java", "SQL", "Apache", "JDK"],
     
     githubUrl: "https://github.com/AdvaithRakshan/PharmacyManagementSystem", // Add GitHub repo link
